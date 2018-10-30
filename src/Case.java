@@ -11,6 +11,7 @@
 public class Case {
     
     private int num;
+    public int a;
     
     public Case(){
         
